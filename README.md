@@ -4,9 +4,9 @@ Bu proje, makine öğrenimi kullanarak otomobil fiyatlarını tahmin etmek için
 ## Proje Açıklaması
 Bu uygulama, kullanıcıların otomobil markası, modeli, üretim yılı, kilometre, motor özellikleri, renk, montaj yeri, gövde tipi, şanzıman türü ve kayıt durumu gibi özellikleri seçerek bir otomobilin tahmini fiyatını öğrenmelerine olanak tanır.
 
-## Proje Linki 
+## Uygulama Linki 
 
-[Proje Linki !](https://huggingface.co/spaces/yusufenes/CarPricePredict)
+[Uygulamaya Git](https://huggingface.co/spaces/yusufenes/CarPricePredict)
 
 ## Kullanılan Teknolojiler
 - Python
