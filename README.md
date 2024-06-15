@@ -18,20 +18,20 @@ Bu uygulama, kullanıcıların otomobil markası, modeli, üretim yılı, kilome
 ### Projeyi klonlamak için aşağıdaki komutu kullanabilirsiniz:
 
 
-'''
+```
 git clone https://github.com/your-username/car-price-prediction.git
 cd car-price-prediction
-'''
+```
 Gerekli Python kütüphanelerini yüklemek için:
 
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 ## Nasıl Kullanılır?
 Proje dizininde Streamlit uygulamasını başlatın:
-'''
+```
 streamlit run app.py
-'''
+```
 Web tarayıcınızda localhost:8501 adresine gidin.
 Form üzerinde otomobil özelliklerini seçin ve "Predict" butonuna tıklayarak tahmini fiyatı gözlemleyin.
